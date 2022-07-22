@@ -1,0 +1,4 @@
+open3d
+scipy
+matplotlib
+numba-kdtree
