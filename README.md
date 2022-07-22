@@ -15,7 +15,8 @@ pose. Three parameterisations for rigid body increments delta_X are considered:
         delta_X = [delta_x, delta_y, delta_z, q_x, q_y, q_z]
 
 There is a lot of room for improvement e.g. point to plane metric, solver etc.
-[0]  "Least Squares Optimization: from Theory to Practice" by Grisetti et al https://arxiv.org/pdf/2002.11051.pdf
+
+[0] "Least Squares Optimization: from Theory to Practice" by Grisetti et al https://arxiv.org/pdf/2002.11051.pdf
 
 
 # setup
