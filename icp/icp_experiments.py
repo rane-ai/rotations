@@ -440,7 +440,6 @@ def load_and_transform_point_clouds():
     return source, target
 
 
-# http://www.open3d.org/docs/release/tutorial/pipelines/icp_registration.html
 def register_point_cloud_pair(method, viz=True):
     
     print("Method = {}".format( method ))
